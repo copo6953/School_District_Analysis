@@ -8,6 +8,7 @@
 ![School_Sum](https://github.com/copo6953/School_District_Analysis/blob/main/Resources/School_Sum.png)
 * Removing the 9th grade scores from Thomas High School dramatically decreased the school's overall passing percentage from 90.95% to 90.63%.
 * The math and reading scores by grade are identical other than Thomas High School 9th grade now shows NaN instead of a dishonest percentage.
+![Score_By_Grade](https://github.com/copo6953/School_District_Analysis/blob/main/Resources/Score_By_Grade.png)
 * The Scores by School Spending summary, Scores by School Size summary, and Scores by School Type summary all remained unchanged after the removal of the 9th grade scores.
 ### Summary
 Four changes to the updated analysis after replacing the 9th grade scores with NaN are:
